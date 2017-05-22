@@ -1,6 +1,6 @@
 #include<iostream>
 #include<iomanip>
-#include<D:\huabei-li\object-oriented\work 2\Cal.h> //用来存关于计算用的函数 
+#include"Cal.h" //用来存关于计算用的函数 
 using namespace std;
 int main()
 {
